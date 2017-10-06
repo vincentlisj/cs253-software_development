@@ -6,6 +6,8 @@ Kim Tracy
 
 Rui Cao
 
+Ryan Ozelie
+
 Wenting Zhao
 
 Xiao Yang
