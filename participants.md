@@ -6,6 +6,8 @@ Kim Tracy
 
 Rui Cao
 
+Noah Jett
+
 Ryan Ozelie
 
 Wenting Zhao
